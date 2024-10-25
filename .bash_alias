@@ -1,0 +1,6 @@
+alias dev='cd ~/dev && ls'
+alias sites="cd ~/dev/Sites && ls"
+alias apache_start="httpd -k start"
+alias apache_stop="httpd -k stop"
+alias apache_restart="httpd -k restart"
+alias nv='winpty nvim'
